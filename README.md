@@ -1,11 +1,13 @@
 ## How to Create a Tab Bar with React-Navigation?
 
 #### Intro
-Hello everyone and welcome to The Frontier! My name is Israel Machovec, and I’m a Product Manager at Big Nerd Ranch. In this screencast, I will show how to use React-Navigation to Create a Tab Bar in a React Native App.
+Hello everyone and welcome to The Frontier! My name is Israel Machovec, and I’m a Product Manager at Big Nerd Ranch. In this screencast, I will show you how to use React-Navigation to Create a Tab Bar in a React Native App.
+
+In the example, I created three views, each representing an artist from the popular hip-hop group Migos. Yes, the same guys who brought you "Bad and Bougie" are now represented here in a React Native tutorial.
 
 #### Background
 
-We assume that you are already familiar with the basics of React Native. I created a new React Native app using the [ create-react-native-app ](#) CLI and [ Expo ](#). I'm showing a preview of the app using the Xcode Simulator.
+To get started, we assume that you are already familiar with the basics of React Native. I created a new React Native app using the [ create-react-native-app ](#) CLI and [ Expo ](#) and will be showing a preview of the app using the Xcode Simulator.
 
 *__Screen:__* _An open React Native Project in Atom, App preview using Xcode Simulator_
 
