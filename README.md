@@ -2,18 +2,20 @@
 
 #### Intro
 Hello everyone and welcome to The Frontier! My name is Israel Machovec, and I’m a Product Manager at Big Nerd Ranch. In this screencast, I will show you how to use React-Navigation to Create a Tab Bar in a React Native App.
+<br>
+React-Navigation was born from the React Native community's need for an esxtensible yet easy to use navigation solution written entirely in javascript, on top of powerful native primitives.
 
-In the example, I created three views, each representing an artist from the popular hip-hop group Migos. Yes, the same guys who brought you "Bad and Bougie" are now represented here in a React Native tutorial.
+In this example, I created three separate views, each representing an artist from the popular hip-hop group Migos. Yes, the same guys who brought you "Versace" and "Bad and Bougie" are now represented here in a React Native screencast.
 
 #### Background
 
-To get started, we assume that you are already familiar with the basics of React Native. I created a new React Native app using the [ create-react-native-app ](#) CLI and [ Expo ](#) and will be showing a preview of the app using the Xcode Simulator.
+To get started, we assume that you are already familiar with the basics of React Native. => I created a new React Native app using the command [ create-react-native-app ](#) and [ Expo ] (#). => Using "Create React Native App and Expo" is one of the easiest ways to start building a new React Native project. It allows you to start a project without installing or configuring any tools to build native code - no Xcode or Android Studio installation is required. You can learn more about using these in the supplemental materials provided below. For the purposes of this video, I will be showing a preview of the app using the Xcode Simulator. 
 
 *__Screen:__* _An open React Native Project in Atom, App preview using Xcode Simulator_
 
 #### Install React-Navigation
 
-First, we'll need to import React Navigation into our project. Open up your terminal, head to your project folder, and type in the following command.
+First, we are going to head on over to our project folder and import React-Navigation into our project. Open up your terminal, head to your project folder, and type in the following command.
 
 *__Screen:__* _Opens terminal and types in the following command. Does not press enter._
 
@@ -24,7 +26,7 @@ I've already imported React Navigation into my project, so I'm not going to run 
 
 #### Create Folders
 
-Now that we have installed React-Navigation, we're going to create a few folders where we'll be doing a majority of our work. We'll start by creating a folder called  **App**. Inside of the App folder we'll create a **Views** and **Config** folder. We'll also create an **index.js** file inside the App folder.
+Now that we have installed React-Navigation, we'll move over to our newly created react native project. We're going to start by creating a few folders where we'll be doing a majority of our work. We'll start by creating a folder called  **App**. Inside of the App folder we'll create a **Views** and **Config** folder. We'll also create an **index.js** file inside the App folder.
 
 *__Screen:__* _Creates App, View, and Config folders and the index.js file._
 
